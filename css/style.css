@@ -862,7 +862,7 @@ ul.btn li:last-child {
      background: url(../images/footer.jpg);
      background-repeat: no-repeat;
      background-size: 100% 100%;
-     padding-top: 115px;
+     padding-top: 50px;
      text-align: center;
 }
 
@@ -895,13 +895,13 @@ ul.social_icon li {
 
 ul.social_icon li a {
      background: #fff;
-     width: 40px;
-     height: 40px;
+     width: 100px;
+     height: 100px;
      display: flex;
      align-items: center;
      justify-content: center;
      font-size: 25px;
-     border-radius: 30px;
+     border-radius: 50%;
      margin: 0 3px;
 }
 
@@ -975,7 +975,7 @@ ul.social_icon li a:hover {
 }
 
 .copyright {
-     margin-top: 80px;
+     /* margin-top: 80px; */
      padding-bottom: 20px;
 }
 
