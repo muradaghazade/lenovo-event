@@ -379,7 +379,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/pattern.png);
      background-repeat: no-repeat;
      min-height: 900px;
      background-size: 100% 100%;
@@ -663,7 +663,7 @@ ul.btn li:last-child {
 .laptop {
      font-family: 'Dosis', sans-serif;
      padding: 130px 0;
-     background-color: #4f4aa6;
+     background: url(../images/pattern.png);
 }
 
 .laptop .titlepage {
@@ -781,7 +781,7 @@ ul.btn li:last-child {
 /** contact section **/
 
 .contact {
-     background: url(../images/contact_g.jpg);
+     background: url(../images/pattern.png);
      background-repeat: no-repeat;
      background-size: 100% 100%;
      padding: 90px 0;
